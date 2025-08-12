@@ -8,7 +8,7 @@ import 'package:qarshi_kafe/core/models.dart';
 
 String appName = 'Карши кафе';
 // String srvAddress = "192.168.0.108";
-String srvAddress = "192.168.0.110";
+String srvAddress = "localhost:3000";
 String srvBase = "qarshicafe";
 String srvCatalog = "mzakaz";
 String version = '1.1.6';
